@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/japan-auto-service/static/css/main.a59d1b20.css",
-    "main.js": "/japan-auto-service/static/js/main.f1052e72.js",
+    "main.js": "/japan-auto-service/static/js/main.f859eb77.js",
     "index.html": "/japan-auto-service/index.html",
     "main.a59d1b20.css.map": "/japan-auto-service/static/css/main.a59d1b20.css.map",
-    "main.f1052e72.js.map": "/japan-auto-service/static/js/main.f1052e72.js.map"
+    "main.f859eb77.js.map": "/japan-auto-service/static/js/main.f859eb77.js.map"
   },
   "entrypoints": [
     "static/css/main.a59d1b20.css",
-    "static/js/main.f1052e72.js"
+    "static/js/main.f859eb77.js"
   ]
 }
